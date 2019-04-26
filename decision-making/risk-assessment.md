@@ -10,7 +10,7 @@ The scenario is ubiquitous: either you don’t have enough information to feel c
 
 * If you're wondering about a needed decision, then there is some ambiguous already. 
 * If such decision has never been made before by the organization, then is ambiguity even if another org elsewhere have tried it.
-* Double check assumptions, some things taken by granted end up harboring ambiguity and hindering opportunities \(e.g. polls, surveys, votes should follow a template and/or be validated before launching\)
+* Double check assumptions, some things taken for granted end up harboring ambiguity and hindering opportunities \(e.g. polls, surveys, votes should follow a template and/or be validated before launching\)
 * How long will we be committed to the decision? 
 * High stakes? Ambiguous.
 
